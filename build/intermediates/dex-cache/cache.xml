@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-7303152192344ef96572a784f3788dba8333b138.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-9081293797cfa157cffdf78fe2aab528abba802f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-bffca1152af8d6ca6e48f2798c6544349d9a6882.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-b877e1f14d23aa5e72bf0ba56f025a9d54614f9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-c20025f9ce757663021f968a209a080d3eb55e6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-d58d0c079b24c76eff9e4af2671fd5e7806af648.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-52678a506dc87261504c0dd1d04fed417c005b3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-68eecdb295bbdf85b1c9455c89ef6cd2531de85c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-cd61cc85284a58847b943c8632dfd606b2405533.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-7f154e8f70ec3757c2ccf7c520a5dfc28883ba36.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-15c27ca397b86382458c3b14617afc87cb3bb61e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-8a657c3808cc578e9ed5eaba00f3408f63b91855.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-045a61cdad847d06ee13b2b45d3261b8ccb97221.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-494cb815f9a1ca5bbfa9ffde477f8bf4cfbed08e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-c80eeb9e326218ae549737aa907a2d7a694cc527.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-669981222eed5bff4b12e931744c6e6c6ba409c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-975ff788ecb83a67f10f80577a148dc21a2e5940.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-52dd1deff287d51699ef36db32c757ef362a023f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-38b57cd9439dc444677debc0b0707a240bc1f358.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-9c9e45de804a4422f50478ed378900e608b7bfed.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-3a24c8339d22fc5eaff35c6b783885bd802085b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-cb417211294f1007366a607a1589a01a640f239a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-1a2c305ba926191fca5f71500af091d9a6562df6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-5f0c6b5fe388f41800fc7789ec09df2258b4df06.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\classes-b6d50bd2900f678adb3ecdf50d530cbbef03a8ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\ivano\Downloads\Exercise Files\Ch03\03_07\LandonHotelsWithMaps\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-a730a053801c0d332a9d6adb8eb774c6b93d06f7.jar" />
+    </item>
+
+</items>
